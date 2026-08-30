@@ -12,3 +12,5 @@ This project is used to practice Git and GitHub collabration workflows.
 
 ## Project Goals
 Practice Issues, PRs, code review, and CI in a real workflow.
+
+This includes issue tracking, branching, PRs, and CI/CD basics.
