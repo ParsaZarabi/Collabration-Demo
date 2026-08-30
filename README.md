@@ -9,3 +9,6 @@ This project is used to practice Git and GitHub collabration workflows.
 - Create a branch
 
 - Submit a pull request
+
+## Project Goals
+Practice Issues, PRs, code review, and CI in a real workflow.
